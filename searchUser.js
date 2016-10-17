@@ -1,4 +1,4 @@
-unction searchUser() {
+function searchUser() {
 
   var user= document.getElementById("user").value;
   var userUrl= "https://api.github.com/users/"+user;
